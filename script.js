@@ -27,6 +27,3 @@ function intToRoman(num) {
     return result;
 }
 
-// Example usage:
-console.log(intToRoman(14)); // Output: XIV
-console.log(intToRoman(798)); // Output: DCCXCVIII
